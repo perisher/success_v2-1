@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+       
+        <TextView
+        android:id="@+id/id_vehicule_recup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+        
+            <TextView
+        android:id="@+id/nom_vehicule_recup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+            
+            <TextView
+        android:id="@+id/marqueVehicule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+            <TextView
+        android:id="@+id/kmVehicule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+            <TextView
+        android:id="@+id/couleurVehicule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+            
+            <TextView
+        android:id="@+id/motorVehicule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+            
+            <TextView
+        android:id="@+id/anneeVehicule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+            
+            <TextView
+        android:id="@+id/prixVehicule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+            
+                <TextView
+        android:id="@+id/date_depart_recup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+                
+                    <TextView
+        android:id="@+id/date_retour_recup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+                    
+                    
+                    
+                    <Button
+       android:id="@+id/btntestreseravation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID" />
+                    
+                    
+</LinearLayout>
